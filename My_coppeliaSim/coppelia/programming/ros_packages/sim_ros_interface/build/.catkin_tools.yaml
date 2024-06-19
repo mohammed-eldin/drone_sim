@@ -1,0 +1,6 @@
+devel_space: /home/lorenzocausa/Desktop/coppelia_simulation/coppelia/programming/ros_packages/sim_ros_interface/devel
+install: false
+install_space: /home/lorenzocausa/Desktop/coppelia_simulation/coppelia/programming/ros_packages/sim_ros_interface/install
+profile: default
+source_space: /home/lorenzocausa/Desktop/coppelia_simulation/coppelia/programming/ros_packages/sim_ros_interface/src
+workspace: /home/lorenzocausa/Desktop/coppelia_simulation/coppelia/programming/ros_packages/sim_ros_interface
